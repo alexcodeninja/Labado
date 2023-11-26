@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141072595020",
+    "project_id": "labado-beetbattel-10110010",
+    "storage_bucket": "labado-beetbattel-10110010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141072595020:android:ce6b0343f40b44b1231ce9",
+        "android_client_info": {
+          "package_name": "com.example.labado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25XE6fmjpjtzzMj2wzsN3ZJhvgzYqYzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
